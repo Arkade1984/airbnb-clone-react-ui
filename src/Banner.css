@@ -37,5 +37,7 @@
     color: #ff7779 !important;
 }
  .banner__search{
-     
+     top:0;
+     display: flex;
+     flex-direction: column;
  }
